@@ -3,36 +3,6 @@
 
 
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="PK | SAUDI QURAN FHD" tvg-logo="https://rolextv.asia:443/images/0418377dac2860f840a620c7354fa143.png" group-title="ISLAMIC",PK | SAUDI QURAN FHD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/1
-#EXTINF:-1 tvg-id="" tvg-name="PK | SAUDI SUNNAH FHD" tvg-logo="https://rolextv.asia:443/images/dc390c2c270fa799c603b1e260670889.png" group-title="ISLAMIC",PK | SAUDI SUNNAH FHD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/2
-#EXTINF:-1 tvg-id="" tvg-name="MADANI CHANNEL HD" tvg-logo="https://rolextv.asia:443/images/e80d08dc374b866b173cacf5ee28997e.png" group-title="ISLAMIC",MADANI CHANNEL HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/3
-#EXTINF:-1 tvg-id="" tvg-name="KARBALA TV HD" tvg-logo="https://rolextv.asia:443/images/365ad93b4d0a58776e39c65af64ba4c1.png" group-title="ISLAMIC",KARBALA TV HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/4
-#EXTINF:-1 tvg-id="ARYQTVC" tvg-name="ARY QTV HD" tvg-logo="https://rolextv.asia:443/images/84581e82d67390e110a99e5365e0ca9b.png" group-title="ISLAMIC",ARY QTV HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/7
-#EXTINF:-1 tvg-id="PEACEUR" tvg-name="PEACE TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="ISLAMIC",PEACE TV URDU HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/8
-#EXTINF:-1 tvg-id="" tvg-name="PEACE TV ENG HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-english-ae.png" group-title="ISLAMIC",PEACE TV ENG HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/9
-#EXTINF:-1 tvg-id="" tvg-name="MUNTAZIR TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muntazar-tv-pk.png" group-title="ISLAMIC",MUNTAZIR TV
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/94
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7uWugMRhFxcP1fNU96aTPOc0EAesHufB8cC2gUoP-L46KjkQJcvjlFzLhgpWlUEVfQ1l8gA6KbO65duFyL__moA.png" group-title="INTERNATIONAL NEWS",BBC NEWS
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/73
-#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0kUCLQEYxZ5E6EHKdautdgsN97HRDZnedrlQndqxig&s" group-title="INTERNATIONAL NEWS",CNN NEWS
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/74
-#EXTINF:-1 tvg-id="" tvg-name="PK | KIDSZONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="IN | PK | KIDS",PK | KIDSZONE HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/84
-#EXTINF:-1 tvg-id="" tvg-name="PK | PLANET FUN HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="IN | PK | KIDS",PK | PLANET FUN HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/85
-#EXTINF:-1 tvg-id="" tvg-name="PK | CARTOON NETWORK HD" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png" group-title="IN | PK | KIDS",PK | CARTOON NETWORK HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/82
-#EXTINF:-1 tvg-id="" tvg-name="PK | HOORA TV HD" tvg-logo="https://rolextv.asia:443/images/0328d353f55e8d247be6cab036b539f1.png" group-title="IN | PK | KIDS",PK | HOORA TV HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/87
-#EXTINF:-1 tvg-id="" tvg-name="PK | 8XM MUSIC HD" tvg-logo="https://rolextv.asia:443/images/2b8483df9262df30af259315efacb75f.png" group-title="MUSIC VIP",PK | 8XM MUSIC HD
-https://rolextv.asia:443/shafeeq0076/shafeeq0078/185
 #EXTINF:-1 tvg-id="" tvg-name="PK | JALWA MUSIC HD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jalwa_tv_pk.png" group-title="MUSIC VIP",PK | JALWA MUSIC HDhttps://rolextv.asia:443/shafeeq0076/shafeeq0078/3020
 #EXTINF:-1 tvg-id="" tvg-name="PTV SPORTS HD" tvg-logo="https://rolextv.asia:443/images/be6943e85f3a0821f79b1e8a8dd359e8.png" group-title="LIVE | SPORTS",PTV SPORTS HD
 https://rolextv.asia:443/shafeeq0076/shafeeq0078/89
@@ -1765,6 +1735,37 @@ https://rolextv.asia:443/shafeeq0076/shafeeq0078/172818
 https://rolextv.asia:443/shafeeq0076/shafeeq0078/172819
 #EXTINF:-1 tvg-id="1sports" tvg-name="Star Life HD" tvg-logo="https://s9.gifyu.com/images/SFTmJ.png" group-title="IN | DOCUMENTRY",Star Life HD
 https://rolextv.asia:443/shafeeq0076/shafeeq0078/173366
+
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAUDI QURAN FHD" tvg-logo="https://rolextv.asia:443/images/0418377dac2860f840a620c7354fa143.png" group-title="ISLAMIC",PK | SAUDI QURAN FHD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/1
+#EXTINF:-1 tvg-id="" tvg-name="PK | SAUDI SUNNAH FHD" tvg-logo="https://rolextv.asia:443/images/dc390c2c270fa799c603b1e260670889.png" group-title="ISLAMIC",PK | SAUDI SUNNAH FHD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/2
+#EXTINF:-1 tvg-id="" tvg-name="MADANI CHANNEL HD" tvg-logo="https://rolextv.asia:443/images/e80d08dc374b866b173cacf5ee28997e.png" group-title="ISLAMIC",MADANI CHANNEL HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/3
+#EXTINF:-1 tvg-id="" tvg-name="KARBALA TV HD" tvg-logo="https://rolextv.asia:443/images/365ad93b4d0a58776e39c65af64ba4c1.png" group-title="ISLAMIC",KARBALA TV HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/4
+#EXTINF:-1 tvg-id="ARYQTVC" tvg-name="ARY QTV HD" tvg-logo="https://rolextv.asia:443/images/84581e82d67390e110a99e5365e0ca9b.png" group-title="ISLAMIC",ARY QTV HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/7
+#EXTINF:-1 tvg-id="PEACEUR" tvg-name="PEACE TV URDU HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace_tv_ae_urdu.png" group-title="ISLAMIC",PEACE TV URDU HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/8
+#EXTINF:-1 tvg-id="" tvg-name="PEACE TV ENG HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/peace-tv-english-ae.png" group-title="ISLAMIC",PEACE TV ENG HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/9
+#EXTINF:-1 tvg-id="" tvg-name="MUNTAZIR TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/muntazar-tv-pk.png" group-title="ISLAMIC",MUNTAZIR TV
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/94
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://rolextv.asia:443/images/tcjBMuCD8M_zcpZuORRWzTeXJV4oMdcef4K7bEaOcgI7HaUo30HHTMTpGcxRijX7uWugMRhFxcP1fNU96aTPOc0EAesHufB8cC2gUoP-L46KjkQJcvjlFzLhgpWlUEVfQ1l8gA6KbO65duFyL__moA.png" group-title="INTERNATIONAL NEWS",BBC NEWS
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/73
+#EXTINF:-1 tvg-id="" tvg-name="CNN NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ0kUCLQEYxZ5E6EHKdautdgsN97HRDZnedrlQndqxig&s" group-title="INTERNATIONAL NEWS",CNN NEWS
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/74
+#EXTINF:-1 tvg-id="" tvg-name="PK | KIDSZONE HD" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kidzoneplus-pakistan-ee-pk.png" group-title="IN | PK | KIDS",PK | KIDSZONE HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/84
+#EXTINF:-1 tvg-id="" tvg-name="PK | PLANET FUN HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/planet-fun-uk.png" group-title="IN | PK | KIDS",PK | PLANET FUN HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/85
+#EXTINF:-1 tvg-id="" tvg-name="PK | CARTOON NETWORK HD" tvg-logo="https://rolextv.asia:443/images/9c27fc1deb420cf1ae086c66e3acaff2.png" group-title="IN | PK | KIDS",PK | CARTOON NETWORK HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/82
+#EXTINF:-1 tvg-id="" tvg-name="PK | HOORA TV HD" tvg-logo="https://rolextv.asia:443/images/0328d353f55e8d247be6cab036b539f1.png" group-title="IN | PK | KIDS",PK | HOORA TV HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/87
+#EXTINF:-1 tvg-id="" tvg-name="PK | 8XM MUSIC HD" tvg-logo="https://rolextv.asia:443/images/2b8483df9262df30af259315efacb75f.png" group-title="MUSIC VIP",PK | 8XM MUSIC HD
+https://rolextv.asia:443/shafeeq0076/shafeeq0078/185
 
 #EXTINF:-1 tvg-id="" tvg-name="KALAIGNAR" tvg-logo="" group-title="IN | KANNADA",KALAIGNAR
 https://rolextv.asia:443/shafeeq0076/shafeeq0078/8591
